@@ -1,3 +1,6 @@
+
+Add
+
 What happens when you initialize a repository? Why do you need to do it?
 
 Создается скрытая папка .git , в которой и будут храниться коммиты.
@@ -21,3 +24,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+
+
+New change
