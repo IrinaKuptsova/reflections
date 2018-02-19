@@ -34,6 +34,3 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Хочу закоммитить свою первую версию. Научиться работать с GIT.
-
-
-    Еще раз что-нибудь меняем.
